@@ -2,8 +2,8 @@
 	<div class="container">
 		<a class="brand" href="/">arnepoths.de</a>
 		<ul  id="navigation">
-		  <li><a href="/" {% if page.tab == 'home' %} class="active" {% endif %}>Home</a></li>
-		  <li><a href="/contact" {% if page.tab == 'contact' %} class="active" {% endif %}>Contact</a></li>
+		  <li {% if page.tab == 'home' %} class="active" {% endif %}><a href="/" >Home</a></li>
+		  <li {% if page.tab == 'contact' %} class="active" {% endif %}><a href="/contact">Contact</a></li>
 		</ul>
 	</div>
 </div>

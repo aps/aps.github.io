@@ -41,17 +41,19 @@ ul {
 }
 
 #navigation a {
-	display: block;
 	text-decoration: none;
 	color: #ccc;
 }
-#navigation a.active {
+#navigation .active {
 	background: black;
-
 }
+
+#navigation .active a {
+	color: white;
+}
+
 #navigation a:hover {
 	color: white;
-
 }
 
 header {
