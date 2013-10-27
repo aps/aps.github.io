@@ -44,11 +44,8 @@ ul {
 	text-decoration: none;
 	color: #ccc;
 }
-#navigation .active {
+#navigation .active , #navigation .active a {
 	background: black;
-}
-
-#navigation .active a {
 	color: white;
 }
 
@@ -72,9 +69,4 @@ footer kbd {
 }
 
 
-/*
-.container {
-  padding: 40px 15px;
-  text-align: center;
-}
-*/
+
