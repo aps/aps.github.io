@@ -1,6 +1,9 @@
 body {
+	margin-left: auto;
+    margin-right: auto;
+	width: 500px;
 	padding-top: 40px;
-  background: #eee;
+  	background: #fff;
 }
 
 .navbar-fixed {
@@ -9,6 +12,11 @@ body {
 	right: 0;
 	left: 0;
 	z-index: 1030;	
+}
+
+.img {
+	width: 180px;	
+	height: 180px;
 }
 
 .nav {
@@ -51,6 +59,11 @@ ul {
 
 #navigation a:hover {
 	color: white;
+}
+
+.projects img {
+	width: 200px;
+	float: auto;
 }
 
 header {

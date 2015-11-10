@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Arne poths - Android Developer
+title: Arne Poths - Android Developer
 permalink: /index.html
-tab: home
+tab: Start
 ---
 
-<h1>Hi</h1>
+# Hi.
 
-My name is Arne Poths and I'm a freelance Android Developer. 
-<br />I currently studying my master degree in Berlin.
-<br />Before that I lived and worked in Düsseldorf as an Android Developer.
+Mein Name ist Arne Poths und ich bin ein leidenschaftlicher Android Entwickler aus Berlin. Zurzeit Arbeite ich als Freiberufler direkt bei Kunden in Berlin oder von zu Hause. 
+
+
