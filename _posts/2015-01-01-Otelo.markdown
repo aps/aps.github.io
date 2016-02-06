@@ -2,11 +2,13 @@
 layout: default
 modal-id: 4
 date: 2015-01-01
-img: otelo.webp
+img: otelo.png
 alt: image-alt
 project-date: Januar 2015
 client: Vodafone GmbH
+client_url: http://www.vodafone.de
+package: de.otelo.android
 category: Android Entwicklung
-description: Die <a href="https://play.google.com/store/apps/details?id=de.otelo.android">Otelo</a> App bietet Pre-Paid- und Vertragskunden von Otelo die Möglichkeit Informationen über ihren Tarif und ihre Tarifoptionen abzurufen. Neben der Anzeige von Inklusivminuten, Datenvolumen und der Verbrauchsanzeige bietet sie auch die Möglichkeite weitere Tarifoptionen hinzuzubuchen. <br /><br />Die Arbeit an dieser Applikation erfolgte für die EmotionTouch GmbH. 
+description: Die <a target="_blank" href="https://play.google.com/store/apps/details?id=de.otelo.android">Otelo</a> App bietet Pre-Paid- und Vertragskunden von Otelo die Möglichkeit Informationen über ihren Tarif und ihre Tarifoptionen abzurufen. Neben der Anzeige von Inklusivminuten, Datenvolumen und der Verbrauchsanzeige bietet sie auch die Möglichkeite weitere Tarifoptionen hinzuzubuchen. <br /><br />Die Arbeit an dieser Applikation erfolgte für die EmotionTouch GmbH. 
 
 ---
