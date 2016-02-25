@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+date: 2015-04-01
+img: motoboxx.png
+alt: image-alt
+project-date: April 2015
+client: Mobile Value GmbH
+client_url: http://www.motoboxx.com
+package: com.motoboxx
+category: Android Entwicklung
+description: Die <a target="_blank" href="https://play.google.com/store/apps/details?id=com.motoboxx">Motoboxx</a> App bietet Auto liebhabern die Möglichkeit ihre virtuelle Garage anzulegen und diese mit ihren eigenen Autos zu füllen oder mit Autos für die sie sich begeistern. Sie können Fotos von Autos hochladen und so mit ihren Freunden teilen.
+---
